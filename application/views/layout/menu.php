@@ -86,9 +86,9 @@ $nav_layanan                = $this->nav_model->nav_layanan();
                 <i class="fa fa-times second_click" aria-hidden="true" style="display: none;"></i>
             </div>
             <div class="search-box-text">
-                <form action="http://demos.codexcoder.com/labartisan/html/GreenForest/search">
+                <!-- <form action="http://demos.codexcoder.com/labartisan/html/GreenForest/search"> -->
                     <input type="text" name="search" id="all-search" placeholder="Search Here">
-                </form>
+                <!-- </form> -->
             </div>
         </div>
         <!-- .header-search-box -->
